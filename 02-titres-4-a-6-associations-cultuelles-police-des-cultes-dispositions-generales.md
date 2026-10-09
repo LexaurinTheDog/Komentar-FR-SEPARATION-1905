@@ -220,6 +220,14 @@ Le texte en tire deux conséquences. D'une part, ces réunions sont dispensées 
 
 L'article délimite son champ par le lieu : il vise les locaux appartenant à une association cultuelle ou mis à sa disposition, ce qui inclut les édifices publics affectés au culte en vertu de l'article 13. Les infractions à cet article sont punies de l'amende prévue pour les contraventions de la cinquième classe par l'article 29, qui désigne comme responsables les organisateurs, les ministres du culte participants et ceux qui ont fourni le local. L'article 36 rend en outre l'association civilement responsable des condamnations prononcées sur le fondement du présent article, dans les limites qu'il fixe.
 
+### Article 26
+
+**Texte de la disposition:**
+
+> (Transféré à compter du 2021-08-26)
+
+L'article 26 se situait au titre V, relatif à la police des cultes, entre l'article 25 (réunions pour la célébration d'un culte) et l'article 27 (cérémonies et manifestations extérieures). La source indique qu'il a été transféré à compter du 26 août 2021, sans préciser sa nouvelle place ni reproduire son contenu ; le commentaire ne le reconstitue pas. L'article 29, qui punit les infractions « aux articles 25 à 28 », vise encore ce numéro ; le renvoi doit être lu à la lumière de ce transfert.
+
 ### Article 27
 
 **Texte de la disposition:**
@@ -261,6 +269,14 @@ L'article 29 détermine la sanction applicable aux infractions aux articles 25 �
 Le second alinéa désigne les personnes punissables, en distinguant selon les infractions. Dans le cas des articles 25 et 27, sont passibles de la peine ceux qui ont organisé la réunion ou la manifestation et ceux qui y ont participé en qualité de ministres du culte. Dans le cas de l'article 25, sont en outre punissables ceux qui ont fourni le local. La loi retient ainsi une conception large des auteurs, englobant l'organisateur matériel et le responsable religieux, afin que la responsabilité ne puisse être éludée par la dispersion des rôles. Les simples fidèles participant à la réunion ne sont pas visés.
 
 Pour l'article 28, le texte ne précise pas les personnes punissables ; il convient alors d'appliquer les règles générales de la responsabilité pénale à l'auteur de l'élévation ou de l'apposition du signe. L'article 36 prévoit la responsabilité civile de l'association pour les condamnations prononcées en application de l'article 25 ; il ne vise ni l'article 27 ni l'article 28.
+
+### Article 30
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2000-06-22)
+
+L'article 30 appartenait au titre V (police des cultes), après l'article 29, qui sanctionne d'une amende contraventionnelle les infractions aux articles 25 à 28. La source le signale comme abrogé à compter du 22 juin 2000, sans indication du texte abrogatif ; son contenu n'est pas reproduit. Les délits d'entrave et de pression relatifs à l'exercice des cultes figurent aux articles 31 et 32, qui demeurent en vigueur.
 
 ### Article 31
 
@@ -453,6 +469,22 @@ L'article 40 institue une inéligibilité temporaire : pendant huit années à p
 La disposition répondait à un objectif de transition. La loi confiait aux communes des responsabilités importantes à l'égard des cultes : propriété des édifices (art. 9 et 12), demande de désaffectation (art. 13), mise en demeure en cas de défaut d'entretien (art. 13, 3°), réglementation des sonneries de cloches (art. 27). Le législateur a voulu éviter que, durant la période de mise en place de la séparation, les ministres du culte ne siègent dans les organes communaux appelés à statuer sur ces questions dans la commune même où ils exerçaient leur ministère, ce qui aurait exposé ces décisions à un conflit d'intérêts.
 
 L'inéligibilité était limitée dans le temps (huit années), dans l'espace (la commune d'exercice du ministère) et quant au mandat concerné (le conseil municipal). Ces limites traduisent le souci de proportionnalité dans l'atteinte au droit d'éligibilité. Le délai étant expiré, l'article est aujourd'hui sans effet ; il est maintenu dans le texte consolidé comme témoignage du dispositif transitoire de la loi.
+
+### Article 41
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1935-01-01)
+
+L'article 41 se situait au titre VI (dispositions générales), après l'article 40, selon lequel les ministres du culte sont inéligibles au conseil municipal, pendant huit années à partir de la promulgation de la loi, dans les communes où ils exercent leur ministère. Il est abrogé à compter du 1er janvier 1935 selon la source, qui ne précise pas le texte abrogatif et ne reproduit pas son contenu.
+
+### Article 42
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1973-01-03)
+
+L'article 42 du titre VI est abrogé à compter du 3 janvier 1973 selon la source, sans indication du texte abrogatif ni reproduction de son contenu. Il précède l'article 43, relatif à l'application de la loi en Guadeloupe, en Martinique, à La Réunion, à Saint-Barthélemy et à Saint-Martin, et l'article 44, clause abrogatoire générale, qui demeurent en vigueur.
 
 ### Article 43
 

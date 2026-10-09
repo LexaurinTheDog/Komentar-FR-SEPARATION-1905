@@ -1,6 +1,6 @@
 # Commentaire de la loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat
 
-Commentaire d'un texte de droit français : **loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat** (JORF du 11 décembre 1905, NOR LGFX0508749L). Il couvre **47 articles** répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat** (JORF du 11 décembre 1905, NOR LGFX0508749L). Il couvre **52 articles** (47 articles en vigueur et 5 articles abrogés ou transférés, reproduits pour que la numérotation soit complète) répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 État du texte : version consolidée **en vigueur au 2 octobre 2026** (base LEGI de la DILA, dernière modification enregistrée le 26 août 2021).
 

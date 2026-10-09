@@ -1,6 +1,6 @@
 # Commentaire de la loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat, examinée article par article — **47 articles** dans leur rédaction consolidée en vigueur, y compris les articles insérés par des lois postérieures (numérotation à tirets, par exemple 17-1, 19-1 à 19-3, 35-1 ou 36-1 à 36-3). Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat, examinée article par article — **52 articles** : les 47 articles en vigueur dans leur rédaction consolidée, y compris les articles insérés par des lois postérieures (numérotation à tirets, par exemple 17-1, 19-1 à 19-3, 35-1 ou 36-1 à 36-3), ainsi que 5 articles abrogés ou transférés, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -22,7 +22,7 @@ Le commentaire est réparti en deux chapitres :
 1. Titres Ier à III — Principes, attribution des biens, édifices des cultes (art. 1 à 17-1) ;
 2. Titres IV à VI — Associations pour l'exercice des cultes, police des cultes, dispositions générales (art. 18 à 44).
 
-Les articles qui ne figurent pas dans la version consolidée de la source (lacunes de la numérotation : articles 11, 26, 30, 41 et 42) ne sont pas commentés. Lorsque d'autres articles renvoient à des dispositions dont la rédaction actuelle ne correspond plus au renvoi (ainsi les articles 5 et 27, qui visent un décret « prévu à l'article 43 »), le commentaire le signale.
+Les articles qui n'ont plus de rédaction en vigueur (articles 11, 30, 41 et 42, abrogés, et article 26, transféré) sont reproduits tels que la source les présente, avec la date et, le cas échéant, le texte d'abrogation, afin que la numérotation soit complète ; ils font l'objet d'un commentaire bref, qui ne reconstitue pas leur contenu. Lorsque d'autres articles renvoient à des dispositions dont la rédaction actuelle ne correspond plus au renvoi (ainsi les articles 5 et 27, qui visent un décret « prévu à l'article 43 »), le commentaire le signale.
 
 ## Méthode
 

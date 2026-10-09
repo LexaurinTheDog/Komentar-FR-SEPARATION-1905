@@ -258,6 +258,14 @@ Le paragraphe 2 détermine les titres sur le fondement desquels les compagnies, 
 
 Le paragraphe 3 exonère de droits de timbre, d'enregistrement et de toute taxe les actes pris en application de ces titres. Le paragraphe 4 dispense les attributaires d'immeubles des formalités de purge des hypothèques légales et prévoit que les biens attribués sont francs et quittes de toute charge hypothécaire ou privilégiée non inscrite avant l'expiration d'un délai de six mois à compter de la publication au Journal officiel prévue par le paragraphe 7 de l'article 9. Cette règle de purge légale protège l'attributaire et assure, en combinaison avec les délais de l'article 9, la sécurité juridique définitive des transferts opérés en exécution de la loi.
 
+### Article 11
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2011-05-19 par LOI n°2011-525 du 17 mai 2011 - art. 163)
+
+L'article 11 clôturait le titre II, consacré à l'attribution des biens et aux pensions, après l'article 10, qui exonère de toute perception au profit du Trésor les attributions prévues par les articles précédents. Selon la source, il est abrogé à compter du 19 mai 2011 par l'article 163 de la loi n° 2011-525 du 17 mai 2011 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas.
+
 #### Titre III — Des édifices des cultes
 
 ### Article 12
